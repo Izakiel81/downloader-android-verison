@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">True Sigma Downloader</string>
+    <string name="error_no_yt_link">Not a valid YouTube link!</string>
+</resources>
